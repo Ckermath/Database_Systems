@@ -1,0 +1,2 @@
+﻿Insert into Project (ProjectTitle,ProjectManager, ProjectBudget, ProjectStartDate, ProjectEndDate, ProjectCompleted)
+values ('Purchase Order system' , 'M Phillips', 50000.00, '05/07/2021', '07/11/2021', 'False')   

@@ -1,0 +1,2 @@
+﻿UPDATE Project SET ProjectTitle = 'Salaries System', projectManager = 'B Johnson', ProjectBudget = 18500.00, ProjectStartDate = '04/05/2021',
+ProjectEndDate = '01/12/2021', ProjectCompleted = 'False' WHERE ProjectCode = 45
